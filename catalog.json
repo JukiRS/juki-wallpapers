@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "aurora-neon",
+    "name": "Неоновая аврора",
+    "author": "JukiWallpaper",
+    "desc": "Плавное неоновое сияние в тёмных тонах",
+    "video": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/aurora-neon.mp4",
+    "thumb": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/aurora-neon.png"
+  }
+]
