@@ -6,5 +6,29 @@
     "desc": "Плавное неоновое сияние в тёмных тонах",
     "video": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/aurora-neon.mp4",
     "thumb": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/aurora-neon.png"
+  },
+  {
+    "id": "emerald-plasma",
+    "name": "Изумрудная плазма",
+    "author": "JukiWallpaper",
+    "desc": "Мягкие переливы зелёного, синего и бирюзы",
+    "video": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/emerald-plasma.mp4",
+    "thumb": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/emerald-plasma.png"
+  },
+  {
+    "id": "pink-neon",
+    "name": "Розовый неон",
+    "author": "JukiWallpaper",
+    "desc": "Нежно-розовое сияние с фиолетовым лучом",
+    "video": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/pink-neon.mp4",
+    "thumb": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/pink-neon.png"
+  },
+  {
+    "id": "deep-blue",
+    "name": "Лагуна",
+    "author": "JukiWallpaper",
+    "desc": "Спокойные волны бирюзы и глубокого синего",
+    "video": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/deep-blue.mp4",
+    "thumb": "https://raw.githubusercontent.com/JukiRS/juki-wallpapers/main/wallpapers/deep-blue.png"
   }
 ]
